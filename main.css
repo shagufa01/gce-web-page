@@ -1,0 +1,88 @@
+h1 {
+    color: purple;
+    margin-left: 20px;
+    font-size: 40px;
+}
+.para {
+    display: flex;
+    flex-direction: row;
+}
+p {
+    font-size: 20px;
+    line-height: 2rem;
+    margin-left: 20px;
+    }
+.img {
+    width: 700px;
+    height: 350px;
+    margin-top: 25px;
+    
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.box1 {
+    background-color: purple;
+    color: white;
+    width: 100%;
+   margin-left: 20px;
+   margin-right: 5px;
+
+}
+.box1 h1 {
+    color: white;
+    font-size: 40px;
+   
+    
+}
+.box2 {
+    background-color: purple;
+    color: white;
+    margin-left: 5px;
+    margin-right: 20px;
+
+}
+.box2 h1 {
+    color: white;
+    font-size: 40px;
+}
+.sec {
+    display: flex;
+    flex-direction: row;
+
+}
+.CO {
+    color: purple;
+    font-size: 40px;
+}
+.BE {
+    margin-left: 20px;
+}
+.BE h2 {
+    margin-left: 20px;
+    color: purple;
+    
+}
+.MTECH h2 {
+   color: purple;
+   margin-left: 20px;
+  
+}
+.MTECH {
+    margin-left: 20px;
+}
+
+.MSC {
+    margin-left: 20px;
+}
+.MSC h2 {
+    color: purple;
+    margin-left: 20px;
+}
+.pic {
+  display: flex;
+  flex-direction: row;
+  margin-left: 40px;
+ margin-bottom: 5%;
+ 
+}
+
