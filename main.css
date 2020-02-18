@@ -13,8 +13,8 @@ p {
     margin-left: 20px;
     }
 .img {
-    width: 700px;
-    height: 350px;
+    width: 1200px;
+    height: 550px;
     margin-top: 25px;
     
     margin-right: 20px;
@@ -85,4 +85,21 @@ p {
  margin-bottom: 5%;
  
 }
-
+ .foot {
+     background-color: purple;
+     color: white;
+     margin-left: 20px;
+ }
+ .foot h1 {
+     color: white;
+ }
+ .Image {
+     width: 800px;
+     height: 950px;
+ }
+.gceLOGO {
+    width: 1000px;
+    height: 500px;
+    margin-top: 20px;
+   
+}
